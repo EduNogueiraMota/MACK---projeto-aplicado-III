@@ -1,10 +1,10 @@
 #### Repositório para o Projeto Aplicado III
 
 #### Membros do grupo: 
-Beatriz de Souza Ferreira – RA: 10414697
-Eduardo Nogueira Mota – RA: 10414834
-Gustavo Castro Sangali – RA: 23023708
-Jéssica Clara Da Silva Santos – RA: 10414974
+Beatriz de Souza Ferreira – RA: 10414697 //
+Eduardo Nogueira Mota – RA: 10414834 //
+Gustavo Castro Sangali – RA: 23023708 //
+Jéssica Clara Da Silva Santos – RA: 10414974 //
 
 #### Objetivo:
 
